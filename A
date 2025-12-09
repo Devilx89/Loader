@@ -1,4 +1,4 @@
---[[ Moonviel Obsofucate v3,0,9 ]]--
+--[[ Moonviel Obsofucate v6,0,9 ]]--
 
 local d = function(x)
     return (function(str)
